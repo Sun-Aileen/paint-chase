@@ -6,4 +6,4 @@ Sprites were drawn in pixel art, referencing the video game. Helper files are no
 
 ![image](https://github.com/user-attachments/assets/7000d54d-a04c-4856-bcab-c70b627f9382)
 
-(A screenshot of the game run CPUlator)
+(A screenshot of the game taken when running the code in CPUlator)
